@@ -1,0 +1,7 @@
+interface:
+  display_name: "Flashcard"
+  short_description: "从讲义、笔记、词汇或术语生成交互式 HTML 闪卡"
+  default_prompt: "Use $flashcard to turn this file into interactive HTML flashcards."
+
+policy:
+  allow_implicit_invocation: true
